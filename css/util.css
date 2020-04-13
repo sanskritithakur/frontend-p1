@@ -1,0 +1,111 @@
+.flex-direc-col {
+    flex-direction: column;
+}
+
+.font-light {
+    font-weight: 400!important;
+}
+
+.color-w {
+    color: white!important;
+}
+
+.flex-row-rev {
+    flex-direction: row-reverse;
+}
+
+.dflex {
+    display: flex;
+}
+
+.h5-lite {
+    font-size: 26px;
+    font-weight: 400;
+}
+
+.mtop80 {
+    margin-top: 80px;
+}
+
+.width45 {
+    max-width: 45%;
+}
+
+.margin-bottom-sedx {
+    margin-bottom: 90px;
+}
+
+.mb40 {
+    margin-bottom: 30px;
+}
+
+.bcolor-w {
+    background-color: white!important;
+}
+
+.bcolor-g {
+    background-color: #64646115!important;
+}
+
+.h5-finantial {
+    font-size: 31px!important;
+    font-weight: 100;
+}
+
+
+/* .data-points-1 {
+    width: 79%;
+    height: 59vh;
+    background-image: url("../assets/graph1.png");
+    background-size: contain;
+    margin-left: 120px;
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+} */
+
+.data-points-1 {
+    width: 1069px;
+    height: 483px;
+    /* background-color: greenyellow; */
+    background-image: url(../assets/graph1.png);
+    background-size: contain;
+    margin-left: 99px;
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+    background-color: white;
+}
+
+.padding-top-finantial {
+    padding-top: 0px;
+}
+
+
+/* .data-points-2 {
+    width: 79%;
+    height: 59vh;
+    background-image: url("../assets/s@2x.png");
+    background-size: contain;
+    margin-left: 120px;
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+} */
+
+.data-points-2 {
+    width: 1069px;
+    height: 483px;
+    /* background-color: greenyellow; */
+    background-image: url(../assets/s@2x.png);
+    background-size: contain;
+    margin-left: 99px;
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+    background-color: white;
+}
+
+.padding-l-10 {
+    padding-left: 10px;
+}
+
+.margin-in-financial {
+    margin-bottom: 0px;
+}

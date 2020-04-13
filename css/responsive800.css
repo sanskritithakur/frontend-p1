@@ -1,0 +1,447 @@
+    @media screen and (min-width: 750px) and (max-width:1000px) {
+        .margin-bottom-sedx {
+            margin-bottom: 0px;
+        }
+        .margin-b {
+            margin-bottom: 3px;
+        }
+        .bottles-water {
+            height: 260px;
+            width: 50%;
+            margin-left: 23px;
+            margin-right: 0px;
+        }
+        .picture-sedex {
+            margin-right: 20px;
+        }
+        .h5-lite-2 {
+            font-size: 29px;
+            font-weight: 100;
+        }
+        .exp {
+            width: 228px;
+            height: 85px;
+            background-color: transparent!important;
+            display: inline-block;
+            background-image: url(../assets/skkkkk.png);
+            background-size: cover;
+            background-size: cover;
+            margin-bottom: -20px;
+            background-position: center;
+        }
+        .sedex-custom {
+            flex-direction: row;
+        }
+        .margin-negative {
+            margin-left: -2px;
+            margin-bottom: 12px;
+        }
+        .sedex-width-test {
+            width: 91%;
+        }
+        .h5-lite11 {
+            font-size: 26px;
+        }
+        .h5-finantial {
+            font-size: 26px!important;
+        }
+        .bottle-cc-pic {
+            background-image: url(../assets/cc.png);
+            background-size: cover;
+            margin-left: 12px;
+            margin-right: 37px;
+            margin-top: 20px!important;
+        }
+        .bottle-water-pic {
+            width: 46%;
+            height: 235px;
+            /* background-color: salmon; */
+            margin-left: 36px;
+            margin-right: 0px;
+        }
+        .border-left-red {
+            height: 430px;
+            width: 2px;
+            background-color: red;
+            margin-right: 12px;
+        }
+        .production {
+            margin: 0 auto;
+            width: 95%;
+            height: max-content;
+            padding: 40px 0px;
+            display: flex;
+            align-items: center;
+            /* background-color: royalblue; */
+        }
+        .enquiry-form {
+            background-color: rgba(128, 128, 128, 0.164);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding: 28px 12px;
+        }
+        .map-image {
+            width: 323px;
+            height: 209px;
+        }
+        .contact-map {
+            margin-left: 0px;
+        }
+        .our-chairman-img {
+            margin-bottom: 0px;
+            margin-top: 40px;
+        }
+        .discription3 p {
+            font-size: 22px;
+            margin-top: 12px;
+            width: 85%;
+        }
+        .discription3 {
+            /* background-color: brown; */
+            width: 57%;
+            display: flex;
+            flex-direction: column;
+            min-height: 44%;
+        }
+        .discription3 h3 {
+            font-size: 31px;
+        }
+        .alc-type-image {
+            width: 50%!important;
+            height: 191px!important;
+            margin-left: 15px;
+        }
+        #best-alco-div {
+            flex-direction: row;
+            padding-bottom: 23px;
+        }
+        .sedex-para-width {
+            width: 56%;
+        }
+        .planting {
+            background-image: url(../assets/planting.png);
+            background-size: cover;
+            width: 95%;
+            height: 290px;
+            margin-top: 10px;
+        }
+        .planth5 {
+            width: 95%;
+            text-align: left;
+            font-size: 19px!important;
+            color: gray;
+            margin: 0 auto;
+            line-height: 28px;
+            margin-top: 11px;
+        }
+        .planth5 {
+            width: 95%;
+            font-size: 19px!important;
+            margin-top: 11px;
+        }
+        .picture2 {
+            margin-bottom: 0px!important;
+        }
+        .h5-lite {
+            font-size: 23px;
+            font-weight: 400;
+        }
+        .h5-finantial {
+            font-size: 27px!important;
+            font-weight: 100;
+        }
+        .type-of-alc {
+            flex-direction: row!important;
+            padding: 12px 12px;
+        }
+        .footer-div-link a {
+            font-size: 24px;
+            padding-top: 13px;
+        }
+        .alcohol-box h5 {
+            font-size: 22px;
+        }
+        .change-font-size {
+            font-size: 22px!important;
+        }
+        .gila-khedi-h {
+            margin-top: 56px;
+        }
+        .overlay1 {
+            padding-bottom: 32px;
+            padding-top: 20px;
+            flex-direction: row;
+        }
+        .margin-b {
+            margin-bottom: 40px;
+        }
+        .grey-area1 {
+            padding-top: 25px;
+            margin-bottom: 30px;
+        }
+        .grey-area1 {
+            width: 100%;
+            min-height: 13vh;
+            padding-left: 10px;
+            padding-right: 10px;
+            margin-bottom: 5px;
+        }
+        .sedex-sem {
+            background-color: transparent;
+            background-size: cover;
+            width: 40%;
+            background-position: 0;
+            background-size: contain;
+        }
+        .displayed-sedex-image {
+            width: 28%;
+            height: 110px;
+            background-size: cover;
+        }
+        .our-history1 {
+            padding-left: 89px;
+            padding-right: 88px;
+            padding-top: 0px;
+            margin-bottom: 40px;
+        }
+        .displayed-sedex-image {
+            width: 28%;
+            height: 185px;
+        }
+        .sedex-width-chairman {
+            width: 94%;
+        }
+        .displayed-sedex-image {
+            width: 28%;
+            height: 112px;
+        }
+        .ruler {
+            width: 57%;
+            height: 148px;
+            margin-left: 23px;
+            margin-right: 10px;
+        }
+        .money {
+            width: 80%;
+            height: 335px;
+        }
+        .discription {
+            height: 76%;
+            /* background-color: brown; */
+            width: 45%;
+            margin-top: 0px;
+        }
+        .picture {
+            width: 45%;
+            height: 54vh;
+        }
+        .padding-top-finantial {
+            padding-top: 0px;
+            padding-left: 10px;
+        }
+        .data-points-1 {
+            width: 96%;
+            height: 23vh;
+            /* background-color: greenyellow; */
+            background-image: url(../assets/graph1.png);
+            background-size: contain;
+            margin-left: 5px;
+            background-repeat: no-repeat;
+            margin-bottom: 30px;
+        }
+        .data-points-2 {
+            width: 96%;
+            height: 23vh;
+            /* background-color: greenyellow; */
+            background-image: url(../assets/s@2x.png);
+            background-size: contain;
+            margin-left: 5px;
+            background-repeat: no-repeat;
+            margin-bottom: 30px;
+        }
+        .clv-pic {
+            width: 97%!important;
+            height: 63vh;
+            margin-top: 34px;
+        }
+        .h5-lite11 {
+            font-size: 24px;
+            font-weight: 100;
+        }
+        .fourimgtab1 {
+            min-height: 231px;
+        }
+        .sedex-smeta4-pic {
+            width: 28%;
+            height: 189px;
+        }
+        .mtop80 {
+            margin-top: 20px;
+        }
+        .job-section {
+            width: 91%;
+            min-height: 24vh;
+            /* background-color: hotpink; */
+            margin: 0 auto;
+        }
+        .img-collage {
+            width: 48%;
+            height: 58vh;
+        }
+        .jc {
+            margin-right: 10px;
+            width: 65%;
+            display: flex;
+            flex-direction: column;
+            /* justify-content: space-evenly; */
+        }
+        .job-dis {
+            font-weight: 400;
+            font-size: 17px;
+            width: 100%;
+            color: #716d6d;
+        }
+        .job-heading {
+            font-size: 22px;
+        }
+        .job-row {
+            margin-top: 30px;
+        }
+        .data-points-1 {
+            width: 96%;
+            height: 56vh;
+        }
+        .post {
+            font-size: 24px;
+        }
+        .grey-area-modified {
+            flex-direction: row;
+            padding-top: 0px;
+        }
+        .our-chairman-img {
+            width: 555px;
+            height: 283px;
+            background-image: url(../assets/cm.png);
+            background-size: cover;
+            margin-left: 18px;
+            margin-right: 18px;
+        }
+        .chairman-img {
+            margin-bottom: 0px!important;
+            margin-top: 40px;
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+        .bod-row {
+            margin-top: 20px;
+        }
+        #our-motto {
+            padding-left: 10px;
+            flex-direction: row;
+        }
+        .padding-adjust {
+            padding: 7px 16px;
+            margin-top: 10px;
+            margin-bottom: 17px;
+        }
+        .job-img {
+            height: 124px;
+            width: 153px;
+        }
+        .data-points-2 {
+            width: 96%;
+            height: 56vh;
+        }
+        .picture2 {
+            width: 47vh;
+            /* background-color: blue; */
+            background-image: url(../assets/blue.png);
+            background-size: cover;
+            height: 46vh;
+            height: 39vh;
+            margin-bottom: 30px;
+        }
+        .clv-pic {
+            width: 90%;
+            height: 63vh;
+        }
+    }
+    
+    @media screen and (min-width: 900px) and (max-width:1100px) {
+        .data-points-2 {
+            height: 68vh!important;
+        }
+        .data-points-1 {
+            height: 68vh!important;
+        }
+        .margin-b {
+            margin-bottom: 25px;
+        }
+        .job-dis {
+            width: 99%;
+        }
+        .discription {
+            margin-top: 0px;
+        }
+        .clv-pic {
+            width: 86%!important;
+            height: 36vh;
+        }
+        .planth5 {
+            width: 91%;
+            margin-top: 20px;
+            font-size: 20px;
+        }
+        .planting {
+            width: 90%;
+            height: 415px;
+        }
+        .mtop80 {
+            margin-top: 0px;
+        }
+        .extea-side-padding {
+            padding-left: 3%;
+            padding-right: 12%;
+        }
+        .margin-b {
+            margin-bottom: 2px;
+        }
+        .clv-pic {
+            width: 100%;
+            height: 52vh!important;
+        }
+        .part2 {
+            padding-bottom: 20px;
+        }
+        .clv-pic {
+            width: 100%;
+            height: 34vh;
+        }
+        .data-points-1 {
+            width: 100%;
+            height: 29vh;
+            /* background-color: greenyellow; */
+            margin-left: 0px;
+            background-repeat: no-repeat;
+            margin-bottom: 30px;
+        }
+        .our-history {
+            padding-left: 16px!important;
+            padding-right: 100px;
+            padding-top: 0px;
+        }
+        .data-points-2 {
+            width: 100%;
+            height: 29vh;
+            /* background-color: greenyellow; */
+            margin-left: 0px;
+            background-repeat: no-repeat;
+            margin-bottom: 30px;
+        }
+        .our-history {
+            padding-left: 100px;
+            padding-right: 100px;
+            padding-top: 0px;
+        }
+    }
